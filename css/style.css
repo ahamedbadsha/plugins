@@ -1,0 +1,27 @@
+/*counter up*/
+
+.counter{
+	font-size: 60px;
+	color: red;
+}
+/*parallax*/
+
+.parallax-window {
+	min-height: 500px;
+	background: transparent;
+}
+
+/*wow*/
+.w_c{
+	font-size: 50px;
+	color:white;
+}
+.slide{
+	background-color: red;
+	min-height: 300px;
+}
+
+.slide2{
+	background-color: blue;
+	min-height: 300px;
+}
